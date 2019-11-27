@@ -236,7 +236,7 @@
                                 <a href="#about" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
 
                                     <i class="fa fa-truck"></i>
-                                    Gestionar Vehículo
+                                    Gestionar Vehículooooo
                                     <span class="caret"></span>
                                 </a>
 
