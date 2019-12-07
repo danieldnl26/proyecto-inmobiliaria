@@ -91,7 +91,7 @@
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
                                     <img src="./img/avatars/avatar-2-xs.jpg" class="navbar-profile-avatar" alt="">
                                     <span class="navbar-profile-label"><?php if (!empty($_SESSION['usuario'])) {
-                            echo $_SESSION['usuario'];
+                            echo $_SESSION['usuario']
                         } ?> &nbsp;</span>
                                     <i class="fa fa-caret-down"></i>
                                 </a>
