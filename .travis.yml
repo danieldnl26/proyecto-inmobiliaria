@@ -2,3 +2,6 @@ language: php
 rvm:
  - 7.0
  - php
+notifications:
+  email:
+    - dan.perez@misena.edu.com
