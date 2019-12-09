@@ -1,6 +1,0 @@
-notifications:
-  email:
-    recipients:
-      - dan.perez@misena.edu.co
-    on_success: always # default: change
-    on_failure: always # default: always
