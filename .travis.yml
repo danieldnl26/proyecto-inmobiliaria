@@ -43,3 +43,4 @@ notifications:
     - dan.perez@misena.edu.co
     on_success: always 
     on_failure: always 
+    
